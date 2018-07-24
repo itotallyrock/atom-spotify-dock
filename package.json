@@ -18,5 +18,13 @@
         "^0.1.0": "consumeSpotifyPlayer"
       }
     }
+  },
+  "configSchema": {
+    "colorize": {
+      "title": "Colorize",
+      "description": "Fancy color animation on the album art.",
+      "type": "boolean",
+      "default": false
+    }
   }
 }
