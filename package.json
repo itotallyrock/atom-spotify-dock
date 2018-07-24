@@ -1,8 +1,8 @@
 {
   "name": "spotify-dock",
   "main": "./lib/spotify-dock",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Atom dock GUI for Spotify",
   "keywords": [
   ],
   "repository": "https://github.com/itotallyrock/atom-spotify-dock",
